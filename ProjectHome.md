@@ -1,0 +1,1 @@
+It is a tool for viewing the graph of cyclomatic complexity metric
